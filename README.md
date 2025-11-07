@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Emil, an aspiring **Embedded Systems developer** based in Sweden. I'm currently studying **Advanced Software Developer Embedded Systems** and am passionate about building reliable, efficient, and secure embedded solutions. I love turning complex challenges into clean, functional code.
+I'm an aspiring **Embedded Systems developer** based in Sweden. I'm currently studying **Advanced Software Developer Embedded Systems** and am passionate about building reliable, efficient, and secure embedded solutions. I love turning complex challenges into clean, functional code.
 
 ---
 
